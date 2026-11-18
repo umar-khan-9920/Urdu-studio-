@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Urdu Studio</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_clear">Clear Canvas</string>
+    <string name="action_save_json">Save Project (JSON)</string>
+    <string name="action_load_json">Open Project (JSON)</string>
+    <string name="action_export_png">Export 2x PNG</string>
+    <string name="tab_text">Text</string>
+    <string name="tab_shayari">Shayari</string>
+    <string name="tab_backgrounds">Backgrounds</string>
+    <string name="tab_shapes">Shapes</string>
+    <string name="tab_properties">Properties</string>
+    <string name="tab_layers">Layers</string>
+</resources>

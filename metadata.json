@@ -1,0 +1,6 @@
+{
+  "name": "Urdu Studio",
+  "description": "Production-grade Urdu graphic design studio for social media posts, YouTube thumbnails, WhatsApp statuses, and panaflex banners with Nastaliq typography, built-in Urdu phonetic keyboard, shayari templates, luxury gradients, vector shapes, and 2x PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
